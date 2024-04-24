@@ -1,7 +1,7 @@
 ### what's up gamers
 creating shit because i got nothing better to do
 
-c#, js, java, php, c++
+c#, js, java, php
 english, finnish, russian, spanish, japanese
 
 glsl 😋
