@@ -1,5 +1,5 @@
-### what's up gamers
-creating shit because i got nothing better to do
+### what's up
+creating cool shit because i got nothing better to do
 
 c#, js, java, php
 english, finnish, russian, spanish, japanese
