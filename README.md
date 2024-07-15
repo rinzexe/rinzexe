@@ -1,6 +1,4 @@
-### what's up
-creating cool shit because i got nothing better to do
-i'm not active on here, and most of my stuff is private
+### what up
 
 c#, js, java, php
 english, finnish, russian, spanish, japanese
